@@ -43,6 +43,8 @@ while  i <= 5:          # there are two ways for writing the increasing number i
 
 #============================================= today's lecture
 
+n = "kahlid"
+print(n)
 
 
 
